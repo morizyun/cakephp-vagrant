@@ -35,7 +35,7 @@ Vagrant is a great tool to automate creating and configuring lightweight, reprod
 ## Packages and libraries that come with the box
 
 - apache2
-- php5 (5.5)
+- php5 (5.3)
 - php5-cli
 - php5-mysql
 - php5-dev
